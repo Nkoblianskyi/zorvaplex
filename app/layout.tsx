@@ -16,7 +16,6 @@ export const metadata = {
   title: "ZorvaPlex - Free Social Gaming Platform",
   description:
     "A free social platform exclusively for entertainment purposes. No real money. No winnings. Everything is virtual.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
